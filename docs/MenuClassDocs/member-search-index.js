@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ui","c":"Menu","l":"addLoad()"},{"p":"ui","c":"Menu","l":"doOperation(int)"},{"p":"ui","c":"Menu","l":"Menu()","url":"%3Cinit%3E()"},{"p":"ui","c":"Menu","l":"readOption()"},{"p":"ui","c":"Menu","l":"showClients()"},{"p":"ui","c":"Menu","l":"showMenu()"},{"p":"ui","c":"Menu","l":"startProgramm()"},{"p":"ui","c":"Menu","l":"whichClient()"}]

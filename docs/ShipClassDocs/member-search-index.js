@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"model","c":"Ship","l":"addJourney()"},{"p":"model","c":"Ship","l":"getHowManyClients()"},{"p":"model","c":"Ship","l":"getJourney()"},{"p":"model","c":"Ship","l":"sailIsAllowed()"},{"p":"model","c":"Ship","l":"selectClient(int)"},{"p":"model","c":"Ship","l":"Ship()","url":"%3Cinit%3E()"}]
